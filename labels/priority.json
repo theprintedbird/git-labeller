@@ -1,0 +1,6 @@
+[
+  { "name": "Priority: Low :small_blue_diamond:", "color": "0052CC" },
+  { "name": "Priority: Medium :small_orange_diamond:", "color": "fbca04" },
+  { "name": "Priority: High :heavy_exclamation_mark:", "color": "eb6420" },
+  { "name": "Priority: Critical :bangbang:", "color": "e11d21" }
+]

@@ -1,0 +1,11 @@
+[
+	{ "name": "Type: Bug :bug:", "color": "fc2929", "description": "Needs fixing. Probably requires (at least) a semver patch bump." },
+  { "name": "Type: Documentation :notebook:", "color": "0075ca" },
+  { "name": "Type: Duplicate :gemini:", "color": "cccccc", "description": "Please link to the duplicate." },
+  { "name": "Type: Enhancement :muscle:", "color": "84b6eb", "description": "Probably requires (at least) a semver minor bump." },
+  { "name": "Type: Help Wanted :ambulance:", "color": "E99695", "description": "Broadcast your need for help." },
+  { "name": "Type: Invalid :no_good:", "color": "e6e6e6", "description": "Please give reasons why. Not the same as wontfix!" },
+  { "name": "Type: Question :question:", "color": "5319E7", "description": "Show that this needs some questions answered." },
+  { "name": "Type: Wontfix :confounded:", "color": "ffffff", "description": "This is valid but will not be worked on." },
+  { "name": "Type: Maintenance :wrench:", "color": "fbca04", "description": "Keep it running!" }
+]

@@ -1,0 +1,13 @@
+[
+  { "name": "Status: Abandoned :ghost:", "color": "000000", "description": "For whatever reason, this issue has been abandoned. Should probably be triaged into a new category." },
+  { "name": "Status: Accepted :accept:", "color": "009800", "description":"This has been accepted for some kind of work to occur (e.g. writing code / merging / release)." },
+  { "name": "Status: Available :cherries:", "color": "bfe5bf" },
+  { "name": "Status: Blocked :no_entry:", "color": "e11d21", "description":"Indicates a request should not be merged yet because it is blocked by an external entity." },
+  { "name": "Status: Completed :tada:", "color": "006b75", "description": "This is done (though may require further work, e.g. merging / acceptance for release)"  },
+  { "name": "Status: In Progress :hourglass_flowing_sand:", "color": "cccccc", "description":"This is *actively* being worked on (not just in someone's todo list)." },
+  { "name": "Status: On Hold :hand:", "color": "e11d21", "description": "Not being worked on actively for whatever reason (giving a reason is a good thing to do)." },
+  { "name": "Status: Pending :parking", "color": "fef2c0", "description": "Due to be done." },
+  { "name": "Status: Review Needed :microscope:", "color": "fbca04", "description": "No one has looked at this yet." },
+  { "name": "Status: Revision Needed :repeat:", "color": "e11d21", "description": "Someone has reviewed this and it needs to be updated. Reviewers comments are sufficient to update." },
+  { "name": "Status: Needs Discussion :speech_balloon:", "color": "2EAADE", "description": "Someone has reviewed this and a discussion is necessary to get back on track. Can be instigated by anyone involved." }
+]
